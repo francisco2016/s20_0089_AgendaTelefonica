@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AgendaTelefonica()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ AgendaTelefonica\r\n
+comment1.params=name\ number
+comment1.target=void\ enterNumber(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Permite\ almacenar\ un\ nuevo\ n\u00FAmero\ en\ la\ agenda\ indicando\ el\ nombre\ del\ contacto\r\n\ y\ su\ numero\ de\ telefono\ asociado\r\n
+comment2.params=name
+comment2.target=java.lang.String\ lookupNumber(java.lang.String)
+comment2.text=\r\n\ Devuelve\ el\ numero\ de\ tel\u00E9fono\ del\ contacto\ indicado.\ Si\ el\ contacto\ no\ existe,\ \r\n\ devuelve\ null.\r\n
+numComments=3
